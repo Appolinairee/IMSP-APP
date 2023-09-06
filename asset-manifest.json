@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/IMSP-APP/static/css/main.67eb0d51.css",
+    "main.js": "/IMSP-APP/static/js/main.b8c5cf94.js",
+    "static/media/aboutImage.jpg": "/IMSP-APP/static/media/aboutImage.34a6d0eca2c2153e6cbc.jpg",
+    "static/media/programme1.jpg": "/IMSP-APP/static/media/programme1.5d1fb1dcd929289c41b6.jpg",
+    "static/media/programme3.jpg": "/IMSP-APP/static/media/programme3.d13d9d935829675b4168.jpg",
+    "static/media/programme4.jpg": "/IMSP-APP/static/media/programme4.5794b845f10e2156e8b5.jpg",
+    "static/media/programme2.jpg": "/IMSP-APP/static/media/programme2.f0ebfedceb4640d671e2.jpg",
+    "static/media/logoimsp.png": "/IMSP-APP/static/media/logoimsp.8a89cc2381a4ca929186.png",
+    "index.html": "/IMSP-APP/index.html",
+    "main.67eb0d51.css.map": "/IMSP-APP/static/css/main.67eb0d51.css.map",
+    "main.b8c5cf94.js.map": "/IMSP-APP/static/js/main.b8c5cf94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67eb0d51.css",
+    "static/js/main.b8c5cf94.js"
+  ]
+}
